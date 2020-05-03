@@ -1,0 +1,2 @@
+rootProject.name='introduction-android-git-2'
+include ':app'
